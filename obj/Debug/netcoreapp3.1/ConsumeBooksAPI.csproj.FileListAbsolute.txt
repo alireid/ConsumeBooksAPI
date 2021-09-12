@@ -8,6 +8,7 @@
 /Users/alireid/Documents/Projects/ConsumeBooksAPI/bin/Debug/netcoreapp3.1/ConsumeBooksAPI.Views.dll
 /Users/alireid/Documents/Projects/ConsumeBooksAPI/bin/Debug/netcoreapp3.1/ConsumeBooksAPI.Views.pdb
 /Users/alireid/Documents/Projects/ConsumeBooksAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/alireid/Documents/Projects/ConsumeBooksAPI/obj/Debug/netcoreapp3.1/ConsumeBooksAPI.csproj.AssemblyReference.cache
 /Users/alireid/Documents/Projects/ConsumeBooksAPI/obj/Debug/netcoreapp3.1/ConsumeBooksAPI.GeneratedMSBuildEditorConfig.editorconfig
 /Users/alireid/Documents/Projects/ConsumeBooksAPI/obj/Debug/netcoreapp3.1/ConsumeBooksAPI.AssemblyInfoInputs.cache
 /Users/alireid/Documents/Projects/ConsumeBooksAPI/obj/Debug/netcoreapp3.1/ConsumeBooksAPI.AssemblyInfo.cs
