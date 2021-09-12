@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ErKw8mTHBd/Osn8/GzkxmibjOcMsq95kD+tYvXvQ1E37sneQyd+GFFtGRomNJ5Bu74GWUxnVqf4Wwqque8wAbA==",
+  "success": true,
+  "projectFilePath": "/Users/alireid/Documents/Projects/ConsumeBooksAPI/ConsumeBooksAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/alireid/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
